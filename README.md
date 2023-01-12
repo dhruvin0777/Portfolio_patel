@@ -27,3 +27,11 @@ Mock-Up
 The following animation shows the web application's appearance and functionality:
 
 ![Lernantino](https://user-images.githubusercontent.com/118752119/211955098-96547429-c084-4372-975f-8410af1a7aef.jpg)
+
+How to Complete the Challenge
+
+Follow these steps to complete the challenge:
+Use the Acceptance Criteria as a guide for how you'll plan deadlines, sketch, and code your portfolio.
+Ensure that your work meets the Acceptance Criteria and the full list of grading requirements.
+Reach out to your instructional support team throughout the module for help.
+Follow submission instructions.
